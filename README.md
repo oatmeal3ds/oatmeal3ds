@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hello! i'm a cat that likes to code on scratch and turbowarp (i dont even know unity lol)! join my server: https://discord.gg/dR9QzWdBDF
 <!--
 **oatmeal3ds/oatmeal3ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
