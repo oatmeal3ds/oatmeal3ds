@@ -1,5 +1,9 @@
 ## Hi there 👋
-Hello! i'm a cat that likes to code on scratch and turbowarp (i dont even know unity lol)! join my server: https://discord.gg/dR9QzWdBDF
+I'm a cat that likes to code! I currently know HTML and CSS, but not that much JS. I wish to learn Java to make mods for Minecraft Neoforge 1.21.1.
+Speaking of Minecraft, I currently play a (personally curated and tweaked) modpack with Create and Create Aeronautics.
+Fun fact: My favorite animal is the cat!
+
+<a href="https://oatmeal3ds.pages.dev"><img src="https://img.shields.io/badge/Learn%20More-82B440?style=for-the-badge" alt="Learn More" /></a>
 <!--
 **oatmeal3ds/oatmeal3ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
